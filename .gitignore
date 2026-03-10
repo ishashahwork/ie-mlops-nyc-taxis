@@ -22,3 +22,8 @@ mlartifacts/
 .idea/
 *.DS_Store
 .pytest_cache/
+
+# Local monitoring & artifacts
+run_id.txt
+data/
+*.html
